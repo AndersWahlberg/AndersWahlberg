@@ -54,5 +54,5 @@ I’m currently studying **Computer Science** via the **University of Turku Open
 ![GitHub Streak](https://streak-stats.demolab.com?user=AndersWahlberg)
 
 ## 🤝 Connect
-- [LinkedIn](https://www.linkedin.com/in/anders-wahlberg-126a4917a)
-- [anwahlbe@gmail.com](mailto:anwahlbe@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anders%20Wahlberg-blue?logo=linkedin)](https://www.linkedin.com/in/anders-wahlberg-126a4917a)  [![Email](https://img.shields.io/badge/Email-anwahlbe%40gmail.com-red?logo=gmail)](mailto:anwahlbe@gmail.com)  [![Instagram](https://img.shields.io/badge/Instagram-andersrafawahlberg-pink?logo=instagram)](https://www.instagram.com/andersrafawahlberg/)
+
