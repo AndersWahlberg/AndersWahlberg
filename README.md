@@ -36,8 +36,13 @@ I’m currently studying **Computer Science** via the **University of Turku Open
 - **Retail / Supply Chain & Data Analytics (Broman Group Oy)** — worked with demand and supply planning data in **RELEX**:
   - monitored forecasts and key planning KPIs  
   - investigated anomalies and data/parameter issues  
-  - translated business needs into system changes and improved planning workflows  
-
+  - translated business needs into system changes and improved planning workflows
+ 
+## 🧠 How I think & work
+- Strong at **visualizing systems**: I quickly form a mental model from data → logic → UI → user value.
+- I like turning fuzzy problems into **clear structure** (requirements, user flows, class diagrams, milestones) and iterating in code.
+- I prefer building in **small, testable slices** first (clean interfaces, simple architecture, documentation), then expanding based on feedback.
+  
 ## 📌 Featured projects
 - [Wendler531](https://github.com/AndersWahlberg/wendler531) — Java CLI workout tracker (Wendler 5/3/1)
 - [Harvard CS50](https://github.com/code50/196822335) — coursework (C fundamentals)
