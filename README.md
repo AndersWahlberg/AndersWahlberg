@@ -38,10 +38,11 @@ I’m currently studying **Computer Science** via the **University of Turku Open
   - investigated anomalies and data/parameter issues  
   - translated business needs into system changes and improved planning workflows
  
-## 🧠 How I think & work
-- Strong at **visualizing systems**: I quickly form a mental model from data → logic → UI → user value.
-- I like turning fuzzy problems into **clear structure** (requirements, user flows, class diagrams, milestones) and iterating in code.
-- I prefer building in **small, testable slices** first (clean interfaces, simple architecture, documentation), then expanding based on feedback.
+## 🧠 How I work
+- I’m a **structured, reliable** builder: I like turning vague ideas into clear next steps.
+- I’m strong at **visualizing systems** and explaining concepts in a practical way.
+- As a junior developer, I focus on **learning fast**, shipping small improvements, and keeping things **clean and understandable**.
+- I’m dependable, calm under pressure, and I enjoy **collaboration and continuous learning**.
   
 ## 📌 Featured projects
 - [Wendler531](https://github.com/AndersWahlberg/wendler531) — Java CLI workout tracker (Wendler 5/3/1)
