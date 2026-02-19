@@ -50,7 +50,6 @@ I’m currently studying **Computer Science** via the **University of Turku Open
 - [Ethico](https://github.com/AndersWahlberg/my-new-project) — early-stage concept (ethical consumption app)
 
 ## 📊 Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersWahlberg&show_icons=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=AndersWahlberg)
 
 ## 🤝 Connect
