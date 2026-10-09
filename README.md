@@ -83,7 +83,7 @@ Technologies and areas explored include:
 - AI-assisted software development
 - Source-based information presentation
 
-👉 [View Ethico on GitHub](https://github.com/AndersWahlberg/my-new-project)
+👉 [View Ethico on GitHub](https://github.com/AndersWahlberg/ethico-app)
 
 ---
 
